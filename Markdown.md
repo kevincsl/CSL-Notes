@@ -191,9 +191,6 @@ Supprised!
 - [ ] 選項C
 ```
 
-### 崁入 YouTube 影片
-
-{%youtube PJuNmlE74BQ %}
 
 
 
