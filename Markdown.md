@@ -1,4 +1,7 @@
 # Markdown 語法 in HackMD
+
+[![hackmd-github-sync-badge](https://hackmd.io/xrBJVlm9TrmGaHtqoR8VEg/badge)](https://hackmd.io/xrBJVlm9TrmGaHtqoR8VEg)
+
 [ToC]
 ###### tags: `Markdown` `HackMD`
 
