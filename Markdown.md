@@ -1,4 +1,3 @@
-<script src="https://gist.github.com/rxaviers/7360908.js"></script>
 # Markdown 語法 in HackMD
 
 [![hackmd-github-sync-badge](https://hackmd.io/xrBJVlm9TrmGaHtqoR8VEg/badge)](https://hackmd.io/xrBJVlm9TrmGaHtqoR8VEg)
