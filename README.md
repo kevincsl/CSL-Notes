@@ -1,5 +1,8 @@
 
 # CSL的筆記
+
+[![hackmd-github-sync-badge](https://hackmd.io/B7_KbNXyRSGSKxny0cTKqg/badge)](https://hackmd.io/B7_KbNXyRSGSKxny0cTKqg)
+
 ###### tags: `Notes`, `Old`, `Index`,`Home`
 [toc]
 
@@ -7,7 +10,9 @@
 ## 1.markdown語法
 
 花了半天學會的markdown語法，可不能忘記了!  
-:arrow_right:[簡易的Markdown語法](https://hackmd.io/@CSL/BJkKSZ1Os)
+:arrow_right:[簡易的Markdown語法(on HackMD)](https://hackmd.io/@CSL/BJkKSZ1Os)
+
+:arrow_right:[簡易的Markdown語法(on GitHUB)](./Markdown)
 
 ## 2.git語法與github
   
