@@ -222,7 +222,8 @@ st->op1->cond->
 cond(yes)->ed
 cond(no)->op1
 ```
-3. 甘特圖
+3. 甘特圖 
+
 ```mermaid
 gantt
     title 甘特圖
