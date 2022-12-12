@@ -20,26 +20,26 @@
 想寫個note，不要太多太長。  
 :arrow_right:[簡易的Git Q&A](https://hackmd.io/@CSL/ryzkHW1_j)  
   
-## 3.VPS Linux re-build後設定
+## 3. VPS Linux re-build後設定
 
 Linux裝好後設定指令step by step  
 :arrow_right: [VPS Linux re-build後設定](https://hackmd.io/@CSL/Sk2BKOX_o)  
 
-## 4.ngrok轉發伺服器
+## 4. ngrok轉發伺服器
 在筆電寫app時，可使用ngrok將localhost:port導到外網中，常用於測試Bot app  
-:arrow_right: https://hackmd.io/@CSL/Hk6aDDQdi
+:arrow_right: [ngrok轉發伺服器](https://hackmd.io/@CSL/Hk6aDDQdi)
 
 ## 5. 網路上的Git筆記
 Git指令會常常用到，連結一個筆記，以防忘記!  
-:arrow_right: https://hackmd.io/@paiLearningNote/HkcEOhTAB)
+:arrow_right: [網路上的Git筆記](https://hackmd.io/@paiLearningNote/HkcEOhTAB)
 
 ## 6. Docker 很簡單-安裝現成的image
 簡易版的 docker指令，我們可用它來封裝一個webapp  
-:arrow_right: https://hackmd.io/@CSL/r1LkbTZuo
+:arrow_right: [Docker 很簡單-安裝現成的image](https://hackmd.io/@CSL/r1LkbTZuo)
 
 ## 7. Nginx 設定方法
 Nginx的設定因不常更改常會忘記，做個筆記  
-:arrow_right: https://hackmd.io/@CSL/H1Z_ikZOj
+:arrow_right: [Nginx 設定方法](https://hackmd.io/@CSL/H1Z_ikZOj)
 
 
 
