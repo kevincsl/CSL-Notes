@@ -1,6 +1,6 @@
 
 # CSL的筆記
-:house:  [回筆記首頁](https://hackmd.io/@CSL/rJEhMi6Do)  
+:house:  [回筆記首頁](https://mirai.tw)  
 [![hackmd-github-sync-badge](https://hackmd.io/B7_KbNXyRSGSKxny0cTKqg/badge)](https://hackmd.io/B7_KbNXyRSGSKxny0cTKqg)
 
 ###### tags: `Notes`, `Old`, `Index`,`Home`
