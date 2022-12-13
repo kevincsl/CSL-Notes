@@ -10,15 +10,15 @@
 ## 1.markdown語法
 
 花了半天學會的markdown語法，可不能忘記了!  
-:arrow_right:[簡易的Markdown語法(on HackMD)](https://hackmd.io/@CSL/BJkKSZ1Os)
+:arrow_forward:[簡易的Markdown語法(on HackMD)](https://hackmd.io/@CSL/BJkKSZ1Os)
 
-:arrow_right:[簡易的Markdown語法(on GitHUB)](./Markdown)
+:arrow_forward:[簡易的Markdown語法(on GitHUB)](./Markdown)
 
 ## 2.git語法與github
   
 過了50歲才開始學git，不難但指令容易忘，以前都不會這樣的!
 想寫個note，不要太多太長。  
-:arrow_right:[簡易的Git Q&A](https://hackmd.io/@CSL/ryzkHW1_j)  
+:arrow_forward: [簡易的Git Q&A](https://hackmd.io/@CSL/ryzkHW1_j)  
   
   
   https://icguanyu.github.io/other/git%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/
@@ -26,11 +26,11 @@
 ## 3. VPS Linux re-build後設定
 
 Linux裝好後設定指令step by step  
-:arrow_right: [VPS Linux re-build後設定](https://hackmd.io/@CSL/Sk2BKOX_o)  
+:arrow_forward: [VPS Linux re-build後設定](https://hackmd.io/@CSL/Sk2BKOX_o)  
 
 ## 4. ngrok轉發伺服器
 在筆電寫app時，可使用ngrok將localhost:port導到外網中，常用於測試Bot app  
-:arrow_right: [ngrok轉發伺服器](https://hackmd.io/@CSL/Hk6aDDQdi)
+:arrow_forward: [ngrok轉發伺服器](https://hackmd.io/@CSL/Hk6aDDQdi)
 
 ## 5. 網路上的Git筆記
 Git指令會常常用到，連結一個筆記，以防忘記!  
