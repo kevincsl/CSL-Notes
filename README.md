@@ -50,7 +50,7 @@ Nginx的設定因不常更改常會忘記，做個筆記
 ## 8. Bottle與Python內建wsgi 
 WSGI (Web Server Gateway Interface) Bottle 是一個很小的 Python wsgi server (Web Server Gateway Interface)，與內建的wsgi server相比，bottle可以更快速開發app。
 我們先介紹Python內建Wsgi Server，再介紹Bottle。  
-:arrow_right: [Bottle與Python內建wsgi](https://hackmd.io/@CSL/SySo6HG_i)
+:arrow_forward: [Bottle與Python內建wsgi](https://hackmd.io/@CSL/SySo6HG_i)
 
 
 Author:
