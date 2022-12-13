@@ -20,6 +20,9 @@
 想寫個note，不要太多太長。  
 :arrow_right:[簡易的Git Q&A](https://hackmd.io/@CSL/ryzkHW1_j)  
   
+  
+  https://icguanyu.github.io/other/git%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/
+  
 ## 3. VPS Linux re-build後設定
 
 Linux裝好後設定指令step by step  
@@ -31,16 +34,23 @@ Linux裝好後設定指令step by step
 
 ## 5. 網路上的Git筆記
 Git指令會常常用到，連結一個筆記，以防忘記!  
-:arrow_right: [網路上的Git筆記](https://hackmd.io/@paiLearningNote/HkcEOhTAB)
+:arrow_right: [Git 與 GitHub 起手式](https://medium.com/wenchin-rolls-around/git-%E8%88%87-github-%E8%B5%B7%E6%89%8B%E5%BC%8F-966e18da84f2)
+:arrow_right: [Git 個人常用指令筆記](https://icguanyu.github.io/other/git%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/)
+:arrow_right: [Git 官方教學文件](https://git-scm.com/book/zh-tw/v2)
+
 
 ## 6. Docker 很簡單-安裝現成的image
-簡易版的 docker指令，我們可用它來封裝一個webapp  
+簡易版的 docker指令，我們可用它來封裝webapp  
 :arrow_right: [Docker 很簡單-安裝現成的image](https://hackmd.io/@CSL/r1LkbTZuo)
 
 ## 7. Nginx 設定方法
 Nginx的設定因不常更改常會忘記，做個筆記  
 :arrow_right: [Nginx 設定方法](https://hackmd.io/@CSL/H1Z_ikZOj)
 
+## 8. Bottle與Python內建wsgi 
+WSGI (Web Server Gateway Interface) Bottle 是一個很小的 Python wsgi server (Web Server Gateway Interface)，與內建的wsgi server相比，bottle可以更快速開發app。
+我們先介紹Python內建Wsgi Server，再介紹Bottle。  
+:arrow_right: [Bottle與Python內建wsgi](https://hackmd.io/@CSL/SySo6HG_i)
 
 
 Author:
