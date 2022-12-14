@@ -48,6 +48,10 @@ WSGI (Web Server Gateway Interface) Bottle 是一個很小的 Python wsgi server
 Flask在網路上的資源非常豐富，開發app首選  
 :arrow_right: [Flask與Python內建wsgi](https://hackmd.io/@CSL/ry3rWp8ds)  
 
+## 9. My First Line Bot - EchoBot
+連接 Line，最簡單的 message api BOT.  
+:arrow_right: [EchoBot](https://hackmd.io/@CSL/By2Q3GIdo)
+
 Author:
 - [name=林奇賢]
 
