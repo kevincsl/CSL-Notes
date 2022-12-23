@@ -15,6 +15,9 @@
 :arrow_right:[簡易的Markdown語法(on GitHUB)](./Markdown)
 
 ## 2. Unit設定
+Unit的設定可參閱Unit的官網 https://unit.nginx.org/configuration/  
+
+:arrow_right:[unit的簡易設定](https://hackmd.io/@CSL/HJopMcXOj)
 
 
 ## 3. VPS Linux re-build後設定
@@ -41,18 +44,30 @@ Git指令會常常用到，連結一個筆記，以防忘記!
 Nginx的設定因不常更改常會忘記，做個筆記  
 :arrow_right: [Nginx 設定方法](https://hackmd.io/@CSL/H1Z_ikZOj)
 
-## 8. Flask、Bottle與Python內建wsgi 
-WSGI (Web Server Gateway Interface) Bottle 是一個很小的 Python wsgi server (Web Server Gateway Interface)，與內建的wsgi server相比，bottle可以更快速開發app。
-我們先介紹Python內建Wsgi Server，再介紹Bottle。  
+## 8. Flask、Fastapi、Bottle與Python內建wsgi 
+這裡我們介紹寫Web API時常用的小框架，Python內建wsgi、Bottle、Flask、Fastapi入門寫法的比較  
+Bottle模組只有一個py檔，很小，是個通用型框架  
 :arrow_right: [Bottle與Python內建wsgi](https://hackmd.io/@CSL/SySo6HG_i)  
-Flask在網路上的資源非常豐富，開發app首選  
+
+FastAPI效能高，新興的 web api的框架，資源沒flask多  
+:arrow_right: [FastAPI與Python內建wsgi]()  
+
+Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略低，但之後有[apiflask](https://apiflask.com/)出現，不比FastAPI遜色  
 :arrow_right: [Flask與Python內建wsgi](https://hackmd.io/@CSL/ry3rWp8ds)  
 
-## 9. My First Line Bot - EchoBot
-連接 Line，最簡單的 message api BOT.  
-:arrow_right: [EchoBot](https://hackmd.io/@CSL/By2Q3GIdo)
+## 9. 製作Line Bot 
+連接 Line，來製作最簡單的  message api BOT   
+:arrow_right: [Lesson 1](https://hackmd.io/@CSL/By2Q3GIdo)  
+:arrow_right: [Lesson 2](https://hackmd.io/@CSL/r1pLWiC_i)  
 
+## 10. python的多版本管理
+:arrow_right: [update-alternatives︰管理指令和檔案的多個版本 (python的多版本管理)](https://hackmd.io/@CSL/r1j8oHgFj)
+
+## 11. Continued...
+
+
+
+Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略低，但之後有
 Author:
 - [name=林奇賢]
-
 
