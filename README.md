@@ -63,7 +63,10 @@ Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略�
 ## 10. python的多版本管理
 :arrow_right: [update-alternatives︰管理指令和檔案的多個版本 (python的多版本管理)](https://hackmd.io/@CSL/r1j8oHgFj)
 
-## 11. Continued...
+## 11. Nginx/Unit vs Gunicorn 效能與消耗資源比較
+:arrow_right: [Nginx/Unit vs Gunicorn 效能與消耗資源比較](https://hackmd.io/@CSL/SJCnbHvKo)
+
+## 12. Continued...
 
 
 
