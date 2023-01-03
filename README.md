@@ -50,7 +50,7 @@ Bottle模組只有一個py檔，很小，是個通用型框架
 :arrow_right: [Bottle與Python內建wsgi](https://hackmd.io/@CSL/SySo6HG_i)  
 
 FastAPI效能高，新興的 web api的框架，資源沒flask多  
-:arrow_right: [FastAPI與Python內建wsgi]()  
+:arrow_right: [FastAPI:asgi與Python內建wsgi](https://hackmd.io/@CSL/Hyzuh83Oo)  
 
 Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略低，但之後有[apiflask](https://apiflask.com/)出現，不比FastAPI遜色  
 :arrow_right: [Flask與Python內建wsgi](https://hackmd.io/@CSL/ry3rWp8ds)  
@@ -66,7 +66,13 @@ Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略�
 ## 11. Nginx/Unit vs Gunicorn 效能與消耗資源比較
 :arrow_right: [Nginx/Unit vs Gunicorn 效能與消耗資源比較](https://hackmd.io/@CSL/SJCnbHvKo)
 
-## 12. Continued...
+## 12. 將LineBot移植到 Deta.sh
+:arrow_right: [將LineBot移植到Deta.sh](https://hackmd.io/@CSL/HJcsPvhOj)
+
+
+
+
+## 13. Continued...
 
 
 
