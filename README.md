@@ -57,8 +57,10 @@ Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略�
 
 ## 9. 製作Line Bot 
 連接 Line，來製作最簡單的  message api BOT   
+
 :arrow_right: [Lesson 1](https://hackmd.io/@CSL/By2Q3GIdo)  
 :arrow_right: [Lesson 2](https://hackmd.io/@CSL/r1pLWiC_i)  
+:arrow_right: [Line - Message Api - Message types筆記](https://hackmd.io/@CSL/HkuqgjzYo)
 
 ## 10. python的多版本管理
 :arrow_right: [update-alternatives︰管理指令和檔案的多個版本 (python的多版本管理)](https://hackmd.io/@CSL/r1j8oHgFj)
@@ -72,11 +74,10 @@ Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略�
 
 
 
-## 13. Continued...
+## 13. WSL (Windows Subsystem for Linux) 安裝與使用教學
+:arrow_right: [WSL (Windows Subsystem for Linux) 安裝與使用教學](https://hackmd.io/aitP3VASSj-5H_Dd7NV32A)
 
 
-
-Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略低，但之後有
 Author:
 - [name=林奇賢]
 
