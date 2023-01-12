@@ -60,9 +60,11 @@ Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略�
 
 :arrow_right: [Lesson 1](https://hackmd.io/@CSL/By2Q3GIdo)  
 :arrow_right: [Lesson 2](https://hackmd.io/@CSL/r1pLWiC_i)  
+:arrow_right: [Lesson 3](https://hackmd.io/mQAwolZvRKWQw5XSzFwMNg)  
 :arrow_right: [Line - Message Api - Message types筆記](https://hackmd.io/@CSL/HkuqgjzYo)
 
-## 10. python的多版本管理
+## 10. python的環境設定與多版本管理
+:arrow_right: [虛擬環境設定](https://hackmd.io/5WErNa21QmCUwEWmCEAu3g)  
 :arrow_right: [update-alternatives︰管理指令和檔案的多個版本 (python的多版本管理)](https://hackmd.io/@CSL/r1j8oHgFj)
 
 ## 11. Nginx/Unit vs Gunicorn 效能與消耗資源比較
@@ -72,10 +74,12 @@ Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略�
 :arrow_right: [將LineBot移植到Deta.sh](https://hackmd.io/@CSL/HJcsPvhOj)
 
 
-
-
 ## 13. WSL (Windows Subsystem for Linux) 安裝與使用教學
 :arrow_right: [WSL (Windows Subsystem for Linux) 安裝與使用教學](https://hackmd.io/aitP3VASSj-5H_Dd7NV32A)
+
+## 14. Deta.sh Micros Base Drive 使用方法
+:arrow_right: [Deta.sh Micros Base Drive 使用方法](https://hackmd.io/mQiOGfQRSBCjHjx-EAHxHg)
+
 
 
 Author:
