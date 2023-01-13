@@ -80,6 +80,8 @@ Flask在網路上的資源非常豐富，開發app首選，效能比FastAPI略�
 ## 14. Deta.sh Micros Base Drive 使用方法
 :arrow_right: [Deta.sh Micros Base Drive 使用方法](https://hackmd.io/mQiOGfQRSBCjHjx-EAHxHg)
 
+## 15. Python Dict物件與JSON類型轉換
+:arrow_right: [Python Dict物件與JSON類型轉換](https://hackmd.io/8-UqaQCfQnKDVdA5_eawMQ)
 
 
 Author:
